@@ -15,9 +15,7 @@ class Tree
         int node=0;
         Node * Root=NULL;
         Node * Current;
-        Node * Current1;
         Node * Temp;
-        Node * Temp1;
         
     public:
         void Add(int&);
